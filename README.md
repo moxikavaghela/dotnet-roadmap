@@ -48,8 +48,8 @@ Whether you are starting from scratch or brushing up your skills, this roadmap w
 
 | Day | Topic                         | Status  |
 |:---:|:------------------------------|:-------:|
-| 1   | Introduction to .NET & C#      | ⬜ |
-| 2   | Setting Up Development Environment | ⬜ |
+| 1   | Introduction to .NET & C#      | ✅ |
+| 2   | Setting Up Development Environment | ✅ |
 | 3   | C# Basics and Syntax           | ⬜ |
 | 4   | Object-Oriented Programming (OOP) in C# | ⬜ |
 | 5   | Introduction to ASP.NET Core   | ⬜ |
@@ -80,6 +80,68 @@ Whether you are starting from scratch or brushing up your skills, this roadmap w
 | 30  | Portfolio and Next Steps        | ⬜ |
 
 ✅ = Completed | ⬜ = Not Started
+
+---
+## 🎯 Mini Project Ideas for Hands-on Practice:
+Here are some **mini projects** you can build between different topics in this challenge for hands-on experience:
+
+| Project                               | Status |
+|---------------------------------------|--------|
+| **1. Basic Calculator**               | ⬜      |
+| **2. Simple To-Do List**              | ⬜      |
+| **3. Grade Calculator**               | ⬜      |
+| **4. Number Guessing Game**           | ⬜      |
+| **5. Simple ATM Machine**             | ⬜      |
+| **6. Contact Book**                   | ⬜      |
+| **7. Temperature Converter**          | ⬜      |
+| **8. Bank Account Management System** | ⬜      |
+| **9. Quiz Application**               | ⬜      |
+| **10. Basic Bank Loan Eligibility Checker** | ⬜      |
+| **11. Personal Diary**                | ⬜      |
+| **12. Basic Chatbot**                 | ⬜      |
+
+✅ = Completed | ⬜ = Not Started
+
+---
+
+## 🎯 Mini Project Ideas for Hands-on Practice:
+Here are some **mini projects** you can build between different topics in this challenge for hands-on experience:
+
+### 1. **Basic Calculator** (After covering Variables, Data Types, Arithmetic Operators, and Methods)
+   - **Skills**: Variables, data types, taking inputs, arithmetic operators, methods.
+
+### 2. **Simple To-Do List** (After covering Variables, Data Types, Methods, and Loops)
+   - **Skills**: Variables, data types, loops, methods, basic input/output.
+
+### 3. **Grade Calculator** (After covering Variables, Arithmetic Operators, and If-Else Statements)
+   - **Skills**: Variables, arithmetic operators, conditional statements.
+
+### 4. **Number Guessing Game** (After covering Variables, Methods, and Loops)
+   - **Skills**: Variables, methods, loops, if-else statements, random number generation.
+
+### 5. **Simple ATM Machine** (After covering Data Types, Typecasting, Arithmetic Operators, and Methods)
+   - **Skills**: Variables, data types, typecasting, arithmetic operators, methods.
+
+### 6. **Contact Book** (After covering Strings, Methods, and Loops)
+   - **Skills**: Strings, loops, methods, basic input/output.
+
+### 7. **Temperature Converter** (After covering Data Types, Typecasting, and Methods)
+   - **Skills**: Data types, typecasting, methods, taking input.
+
+### 8. **Bank Account Management System** (After covering Object-Oriented Programming and Methods)
+   - **Skills**: Object-oriented programming, classes, methods, variables.
+
+### 9. **Quiz Application** (After covering Methods, Loops, and If-Else Statements)
+   - **Skills**: Methods, loops, conditional statements, input/output.
+
+### 10. **Basic Bank Loan Eligibility Checker** (After covering Data Types, If-Else Statements, and Comparison Operators)
+   - **Skills**: Data types, if-else statements, comparison operators.
+
+### 11. **Personal Diary** (After covering Strings, Loops, and Methods)
+   - **Skills**: Strings, loops, methods, file handling (optional).
+
+### 12. **Basic Chatbot** (After covering Methods, Strings, and If-Else Statements)
+   - **Skills**: Methods, strings, if-else statements.
 
 ---
 
